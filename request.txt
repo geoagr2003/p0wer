@@ -1,0 +1,15 @@
+Hi,
+
+How did you figure it out that there is a 4066 IC on this project 
+https://core-electronics.com.au/projects/p0wer-control-mains-outlets-over-wifi
+
+The IC mark is blanked I only see those 14 pins :D
+
+You can reply on geoagr2003@gmail.com or on this file.
+
+Can you provide me some tips or tutorial or how can I read those CMOS. 
+I have the same kind of outlets with 2 remote controls and I would like to put the same codes in both remotes.
+
+Regards,
+
+George
